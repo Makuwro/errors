@@ -1,6 +1,6 @@
 export default class UsernameFormatError extends Error {
 
-  code = 10012;
+  code = 10013;
 
   constructor() {
 

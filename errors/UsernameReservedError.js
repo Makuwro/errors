@@ -1,6 +1,6 @@
 export default class UsernameReservedError extends Error {
 
-  code = 10013;
+  code = 10014;
 
   constructor() {
 
