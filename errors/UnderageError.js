@@ -1,4 +1,4 @@
-export default class AccountBannedError extends Error {
+export default class UnderageError extends Error {
 
   code = 10012;
 
